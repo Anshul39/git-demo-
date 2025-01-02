@@ -1,4 +1,4 @@
 # git demo
 this is just a demo repos.
 <br>
-aurthor - apna clg
+aurthor - apna college
